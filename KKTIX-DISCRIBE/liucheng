@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>報名流程</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h2>2017 北科資工營-星際資戰</h2>
+        <h1>報名流程
+            <p>Update: 20170505</p>
+        </h1>
+    </header>
+    <section class="">
+        <ul class="list">
+            <li>
+                <div class="left">
+                    <h3>第一階段報名</h3>
+                    <div class="arrow"></div>
+                </div>
+                <div class="right">
+                    <p>至KKTIX填寫報名表單並送出。<br>
+                        <span class="blue"> "家長同意書" </span>、 <span class="blue">"個人大頭貼" </span>欄位，可用拍照或掃描方式，<br>以.jpg或.png格式上傳。
+                        <br> 網址：
+                        <span class="blue">http://ntut-csie.kktix.cc/events/camp2017</span><br> 期限：
+                        <span class="blue">5/14 09:00 － 5/20 23:59</span></p>
+
+                </div>
+            </li>
+            <li>
+                <div class="left">
+                    <h3>繳費</h3>
+                    <div class="arrow"></div>
+                </div>
+                <div class="right">
+                    <p>
+                        送出表單後，選擇適合的付款方式，並點選<span class="item">確認訂單</span>。
+                        <br> KKTIX提供
+
+                        <span class="blue">信用卡、ATM及Paypal</span>，以上三種付款方式。<br> 報名費用：
+                        <span class="blue">$1000 </span><br>
+                        <span class="red">請在時間內完成付款手續(依各付款方式不同)，<br>否則將取消訂票資格。</span>
+
+                    </p>
+
+                </div>
+            </li>
+            <li>
+                <div class="left">
+                    <h3 class="fin">確認訂單</h3>
+                    <div class="arrow"></div>
+                </div>
+                <div class="right">
+                    <p>
+                        成功完成購票後，頁面將會顯示<span class="blue">QRCode電子票券</span>。<br> 屆時報到將憑此票券掃描QRCode入場。
+                        <br> (請妥善保存，可將票券影印或以手機截圖儲存)<br>
+                        <span class="red">資料不符合格式工作人員將會主動聯繫，若未在通知後三日內更正資料，將視同放棄報名資格，並比照“退費辦法”辦理。</span>
+                    </p>
+
+                </div>
+            </li>
+
+            <li>
+                <div class="left">
+                    <h3 class="luqu">公佈錄取名單</h3>
+
+                </div>
+                <div class="right">
+                    <p>
+                        待資料皆審核完畢且正確無誤後，<br> 將會以Email寄送<span class="blue">報名成功通知信件</span>，<br>並於5/24在粉專公佈第一階段錄取名單，即正式完成報名。
+                        <br> 敬請持續追蹤動態！
+                    </p>
+
+                </div>
+            </li>
+
+            <li>
+                <div class="left">
+                    <h4 class="shengyu">若尚有剩餘名額</h4>
+
+                </div>
+
+            </li>
+            <li>
+                <div class="left">
+                    <h3>第二階段報名</h3>
+                    <div class="arrow"></div>
+                </div>
+                <div class="right">
+                    <p>第二階段將釋出剩餘名額，報名及繳費方式同上。<br> 期限：
+                        <span class="blue">5/28 09:00 － 6/3 23:59</span></p>
+
+                </div>
+            </li>
+            <li>
+                <div class="left">
+                    <h3>繳費</h3>
+                    <div class="arrow"></div>
+                </div>
+
+            </li>
+            <li>
+                <div class="left">
+                    <h3 class="fin">確認訂單</h3>
+                    <div class="arrow"></div>
+                </div>
+
+            </li>
+            <li>
+                <div class="left">
+                    <h3 class="luqu">公佈錄取名單</h3>
+
+                </div>
+                <div class="right">
+                    <p>
+                        待資料皆審核完畢且正確無誤後，<br> 將會以Email寄送<span class="blue">報名成功通知信件</span>，<br>並於6/7在粉專公佈第二階段錄取名單，即正式完成報名。
+                    </p>
+
+                </div>
+            </li>
+        </ul>
+
+    </section>
+
+
+</body>
+</html>
+
